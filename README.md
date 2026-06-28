@@ -2,6 +2,10 @@
 
 Indie developer building Mac apps, Claude Code plugins, and open source tools.
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=neonwatty&hide_border=true)
+
 ## Top Projects
 
 | Project | Stars | Description |
