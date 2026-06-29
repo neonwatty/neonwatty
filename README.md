@@ -31,8 +31,8 @@ I build agent-assisted products, macOS utilities, and developer workflows that t
 
 ## Products
 
-- **[BugDrop](https://bugdrop.dev/)** ([source](https://github.com/mean-weasel/bugdrop)) - Visual feedback widget that turns screenshots and annotations into GitHub Issues.
-- **[BleepThat.sh](https://bleepthat.sh/)** ([source](https://github.com/neonwatty/bleep-that-shit)) - Browser-first audio and video censoring for creators, classrooms, and teams.
+- **[BugDrop](https://bugdrop.dev/)** - Visual feedback widget that turns screenshots and annotations into GitHub Issues.
+- **[BleepThat.sh](https://bleepthat.sh/)** - Browser-first audio and video censoring for creators, classrooms, and teams.
 - **[Seatify](https://seatify.app/)** - AI-powered seating optimization for weddings and corporate events.
 - **[Debt Is Fun](https://debtisfun.com/)** - Student debt vs. school wealth visualization.
 - **[Feedback Board](https://github.com/neonwatty/feedback-board)** - Open-source, Canny-style feedback board built with Next.js and Supabase.
@@ -66,12 +66,6 @@ I build agent-assisted products, macOS utilities, and developer workflows that t
 ## GitHub activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=neonwatty&hide_border=true)
-
-## Public contributions
-
-- **[microsoft/BitNet](https://github.com/microsoft/BitNet)** - Open PR adding a Colab notebook demo link.
-- **[huggingface/transformers.js](https://github.com/huggingface/transformers.js)** - Open PR updating v3 examples dependency wiring.
-- **[jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)** - Open PR adding Session Search to knowledge management resources.
 
 ## What I like working on
 
