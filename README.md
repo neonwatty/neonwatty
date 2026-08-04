@@ -18,12 +18,12 @@ I build agent-assisted products, macOS utilities, and developer workflows that t
 - **[BugDrop](https://bugdrop.dev/)** `live` `open source` - In-app feedback to GitHub Issues with screenshots and annotations.
 - **[BleepThat.sh](https://bleepthat.sh/)** `live` - Audio and video censorship with a polished Studio workflow.
 - **[Seatify](https://seatify.app/)** `live` `private repo` - AI-powered seating arrangement optimization for weddings and events.
-- **[Limner](https://www.npmjs.com/package/@neonwatty/limner)** `npm` `agent tooling` - Visual fidelity workbench for app polish loops.
+- **[Lineage](https://github.com/mean-weasel/lineage)** `open source` `agent tooling` - Shared visual workspace where humans and agents shape creative work together. [Landing page](https://mean-weasel.github.io/lineage/).
 - **[Machine Learning Refined](https://www.mlrefined.com/)** `book` `open source` - ML, deep learning, and optimization from scratch in Python.
 
 ## Recent shipping
 
-- Built and released **[Limner](https://www.npmjs.com/package/@neonwatty/limner)**, an agent-guided visual fidelity workflow for comparing target designs against real app implementations.
+- Built **[Lineage](https://github.com/mean-weasel/lineage)**, a local-first visual workspace that preserves creative history, selections, annotations, and handoffs for humans and agents. [Explore the landing page](https://mean-weasel.github.io/lineage/).
 - Shipped active product surfaces for **[BugDrop](https://bugdrop.dev/)**, **[BleepThat.sh](https://bleepthat.sh/)**, **[Seatify](https://seatify.app/)**, and **[Debt Is Fun](https://debtisfun.com/)**.
 - Iterated on **[Foil](https://github.com/usefoil/foil)**, a native macOS dictation app with local and OpenAI-compatible transcription paths.
 - Built reusable proof-driven automation workflows through **[Apple Agent Kit](https://github.com/neonwatty/apple-agent-kit)**, **[qa-skills](https://github.com/neonwatty/qa-skills)**, and **[agent-conveyor](https://github.com/neonwatty/agent-conveyor)**.
@@ -41,7 +41,7 @@ I build agent-assisted products, macOS utilities, and developer workflows that t
 
 ## Tools for builders
 
-- **[Limner](https://www.npmjs.com/package/@neonwatty/limner)** - Turn target images into approved HTML references, then compare those references to real app implementations.
+- **[Lineage](https://github.com/mean-weasel/lineage)** - Keep assets, prompts, iterations, relationships, selections, and annotations in one local-first visual workspace. [Landing page](https://mean-weasel.github.io/lineage/).
 - **[agent-conveyor](https://github.com/neonwatty/agent-conveyor)** - Coordination patterns for multi-agent coding work.
 - **[apple-agent-kit](https://github.com/neonwatty/apple-agent-kit)** - Reusable workflows for simulator, device, and release proof.
 - **[qa-skills](https://github.com/neonwatty/qa-skills)** - Playwright QA agents, auth profiles, and browser testing workflows.
