@@ -2,7 +2,7 @@
 
 I build agent tools, creative workflows, and native macOS apps.
 
-[neonwatty.com](https://neonwatty.com/) | [projects](https://neonwatty.com/projects/) | [Discord](https://discord.gg/7xsxU4ZG6A)
+[neonwatty.com](https://neonwatty.com/) | [projects](https://neonwatty.com/projects/)
 
 ## Start here
 
@@ -33,7 +33,3 @@ I build agent tools, creative workflows, and native macOS apps.
 
 - **[neonwatty.com](https://neonwatty.com/)** — Notes on AI tools and building software.
 - **[control-notes](https://github.com/neonwatty/control-notes)** — Notes on control and reinforcement learning.
-
-## GitHub activity
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=neonwatty&hide_border=true)
