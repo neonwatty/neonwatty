@@ -1,72 +1,39 @@
 # Hi, I'm Jeremy.
 
-**Shipping agentically.**
-
-I build agent-assisted products, macOS utilities, and developer workflows that turn rough ideas into shipped software fast.
+I build agent tools, creative workflows, and native macOS apps.
 
 [neonwatty.com](https://neonwatty.com/) | [projects](https://neonwatty.com/projects/) | [Discord](https://discord.gg/7xsxU4ZG6A)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-121212?style=flat-square&logo=openai&logoColor=white)
-
 ## Start here
 
-- **[Foil](https://github.com/usefoil/foil)** `macOS` `open source` - Native voice-to-paste with local and cloud transcription.
-- **[BugDrop](https://bugdrop.dev/)** `live` `open source` - In-app feedback to GitHub Issues with screenshots and annotations.
-- **[BleepThat.sh](https://bleepthat.sh/)** `live` - Audio and video censorship with a polished Studio workflow.
-- **[Seatify](https://seatify.app/)** `live` `private repo` - AI-powered seating arrangement optimization for weddings and events.
-- **[Lineage](https://github.com/mean-weasel/lineage)** `open source` `agent tooling` - Shared visual workspace where humans and agents shape creative work together. [Landing page](https://mean-weasel.github.io/lineage/).
-- **[Machine Learning Refined](https://www.mlrefined.com/)** `book` `open source` - ML, deep learning, and optimization from scratch in Python.
-
-## Recent shipping
-
-- Built **[Lineage](https://github.com/mean-weasel/lineage)**, a local-first visual workspace that preserves creative history, selections, annotations, and handoffs for humans and agents. [Explore the landing page](https://mean-weasel.github.io/lineage/).
-- Shipped active product surfaces for **[BugDrop](https://bugdrop.dev/)**, **[BleepThat.sh](https://bleepthat.sh/)**, **[Seatify](https://seatify.app/)**, and **[Debt Is Fun](https://debtisfun.com/)**.
-- Iterated on **[Foil](https://github.com/usefoil/foil)**, a native macOS dictation app with local and OpenAI-compatible transcription paths.
-- Built reusable proof-driven automation workflows through **[Apple Agent Kit](https://github.com/neonwatty/apple-agent-kit)**, **[qa-skills](https://github.com/neonwatty/qa-skills)**, and **[agent-conveyor](https://github.com/neonwatty/agent-conveyor)**.
-- Continue maintaining **[Machine Learning Refined](https://github.com/neonwatty/machine-learning-refined)**, a long-running educational open source project with 2k+ stars.
-
-## Products
-
-- **[BugDrop](https://bugdrop.dev/)** - Visual feedback widget that turns screenshots and annotations into GitHub Issues.
-- **[BleepThat.sh](https://bleepthat.sh/)** - Browser-first audio and video censoring for creators, classrooms, and teams.
-- **[Seatify](https://seatify.app/)** - AI-powered seating optimization for weddings and corporate events.
-- **[Debt Is Fun](https://debtisfun.com/)** - Student debt vs. school wealth visualization.
-- **[Feedback Board](https://github.com/neonwatty/feedback-board)** - Open-source, Canny-style feedback board built with Next.js and Supabase.
-- **[Meme Search](https://github.com/neonwatty/meme-search)** - Open-source meme search engine, built to self-host.
-- **[YTGify](https://github.com/neonwatty/ytgify)** - Chrome extension for turning YouTube moments into GIFs.
-
-## Tools for builders
-
-- **[Lineage](https://github.com/mean-weasel/lineage)** - Keep assets, prompts, iterations, relationships, selections, and annotations in one local-first visual workspace. [Landing page](https://mean-weasel.github.io/lineage/).
-- **[agent-conveyor](https://github.com/neonwatty/agent-conveyor)** - Coordination patterns for multi-agent coding work.
-- **[apple-agent-kit](https://github.com/neonwatty/apple-agent-kit)** - Reusable workflows for simulator, device, and release proof.
-- **[qa-skills](https://github.com/neonwatty/qa-skills)** - Playwright QA agents, auth profiles, and browser testing workflows.
-- **[nav-map](https://github.com/neonwatty/nav-map)** - Route scans, screenshots, and graph views for Next.js apps.
+- **[BugDrop](https://bugdrop.dev/)** — Turn annotated feedback into GitHub Issues.
+- **[Foil](https://github.com/usefoil/foil)** — Talk to agents at the speed of thought.
+- **[Job Apply](https://github.com/neonwatty/job-apply-plugin)** — Find jobs, fill applications, review before submitting.
+- **[Logo Designer Skill](https://github.com/neonwatty/logo-designer-skill) + [Lineage Logo](https://github.com/lineagehq/lineage-logo)** — Explore SVG logos, then fine-tune every detail.
+- **[Lineage](https://github.com/lineagehq/lineage)** — A visual workspace for human and agent creativity.
+- **[Meme Search](https://github.com/meme-search/meme-search)** — Find memes by what they show or say.
+- **[Machine Learning Refined](https://github.com/neonwatty/machine-learning-refined)** — Learn ML by building it from scratch.
 
 ## macOS apps
 
-- **[Foil](https://github.com/usefoil/foil)** - Voice dictation for macOS, with local and OpenAI-compatible transcription paths.
-- **[PRBar](https://github.com/mean-weasel/prbar)** - Tiny macOS menu bar app for pull request activity.
-- **[Session Search](https://github.com/neonwatty/session-search)** - Full-text search for Claude Code session history.
-- **[CCSwitcher-Codex](https://github.com/neonwatty/CCSwitcher-Codex)** - Menu bar monitor for Claude Code and OpenAI Codex account activity.
-- **[Space Labeler](https://github.com/neonwatty/space-labeler)** - Name and color-code macOS Spaces from the menu bar.
-- **[DesktopToggle](https://github.com/neonwatty/DesktopToggle)** - Quickly toggle desktop icons on macOS.
-- **[RedditReminder](https://github.com/neonwatty/RedditReminder)** - Queue project updates and get nudged about good Reddit posting windows.
+- **[Foil](https://github.com/usefoil/foil)** — Speak prompts straight into your agent tools.
+- **[RunScope](https://github.com/neonwatty/RunScope)** — Monitor Claude Code and Codex from the menu bar.
+- **[Voice Computer POC](https://github.com/neonwatty/voice-computer-poc)** `experiment` — Control your Mac through text commands sent to Codex.
 
-## ML, writing, and reference work
+## More work
 
-- **[Machine Learning Refined](https://github.com/neonwatty/machine-learning-refined)** - ML, deep learning, and optimization from scratch in Python.
-- **[neonwatty.com](https://github.com/neonwatty/blog)** - Writing about AI tools, apps, and the exponential timeline.
-- **[control-notes](https://github.com/neonwatty/control-notes)** - Notes on control, reinforcement learning, and recurrent networks.
+- **[BleepThat.sh](https://bleepthat.sh/)** — Censor audio and video in your browser.
+- **[Seatify](https://seatify.app/)** — Make seating plans with AI-assisted optimization.
+- **[Debt Is Fun](https://debtisfun.com/)** — Compare student debt with school wealth.
+- **[Feedback Board](https://github.com/neonwatty/feedback-board)** — Collect and prioritize product feedback.
+- **[YTGify](https://github.com/ytgify/ytgify)** — Turn YouTube moments into GIFs.
+- **[Apple Agent Kit](https://github.com/neonwatty/apple-agent-kit)**, **[qa-skills](https://github.com/neonwatty/qa-skills)**, and **[agent-conveyor](https://github.com/neonwatty/agent-conveyor)** — Workflows for agents, QA, and app releases.
+
+## Writing and reference
+
+- **[neonwatty.com](https://neonwatty.com/)** — Notes on AI tools and building software.
+- **[control-notes](https://github.com/neonwatty/control-notes)** — Notes on control and reinforcement learning.
 
 ## GitHub activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=neonwatty&hide_border=true)
-
-## What I like working on
-
-I'm especially interested in agentic product development, macOS automation, visual QA, and practical AI workflows for small teams.
