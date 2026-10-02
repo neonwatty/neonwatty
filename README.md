@@ -28,8 +28,3 @@ I build agent tools, creative workflows, and native macOS apps.
 - **[Feedback Board](https://github.com/neonwatty/feedback-board)** — Collect and prioritize product feedback.
 - **[YTGify](https://github.com/ytgify/ytgify)** — Turn YouTube moments into GIFs.
 - **[Apple Agent Kit](https://github.com/neonwatty/apple-agent-kit)**, **[qa-skills](https://github.com/neonwatty/qa-skills)**, and **[agent-conveyor](https://github.com/neonwatty/agent-conveyor)** — Workflows for agents, QA, and app releases.
-
-## Writing and reference
-
-- **[neonwatty.com](https://neonwatty.com/)** — Notes on AI tools and building software.
-- **[control-notes](https://github.com/neonwatty/control-notes)** — Notes on control and reinforcement learning.
